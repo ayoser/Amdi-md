@@ -1,25 +1,25 @@
 {
-  "name": "amdibell",
-  "version": "0.16.5",
-  "description": "Amdibell project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-  "main": "./Amdibell/bot.js",
+  "name": "muthu🥀",
+  "version": "2.0.ov",
+  "description": "ayo project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+  "main": "./muthu",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnonyMouSeTEAM/Amdibell.git"
+    "url": "git+this is not a open source project"
   },
   "keywords": [
     "whatsapp"
   ],
-  "author": "Dark Amda",
-  "developer": "AMS TEAM",
+  "author": "Dark ayodya",
+  "developer": "Ayody",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/AnonyMouSeTEAM/Amdibell/issues"
+"
   },
-  "homepage": "https://github.com/AnonyMouSeTEAM/Amdibell#readme",
+  "homepage",
   "dependencies": {
     "@adiwajshing/baileys": "3.4.1",
     "@lh2020/speedtest-net": "^2.1.1",
